@@ -8,13 +8,19 @@ It used to be the case that in order to type Greek and Hebrew properly one would
 
 * Install the latest developmental version of Emacs
 
-https://github.com/revrari/install-emacs-windows/blob/master/install-emacs.org
-
 It is very *important* for the correct display of Hebrew fonts that one works with the latest developmental version of Emacs (27.0.50). This version corrects a bug which prevented Hebrew vowels and accents from displaying correctly.
 
 For more information:
 
 https://gnu.emacs.bug.narkive.com/ZPb1tNMY/bug-36171-25-1-emacs-displays-hebrew-text-incorrectly
+
+** How to install on Linux
+
+http://ergoemacs.org/emacs/building_emacs_from_git_repository.html
+
+** How to install on Windows 10
+
+https://github.com/revrari/install-emacs-windows/blob/master/install-emacs.org
 
 * Install Greek and Hebrew fonts
 
