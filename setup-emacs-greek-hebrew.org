@@ -1,4 +1,4 @@
-#+TITLE: How to set up Emacs to best type Ancient Greek and Hebrew -- for academic dummies
+#+TITLE: How to set up Emacs to best type Ancient Greek and Hebrew -- for dummies
 #+AUTHOR: Raoul Comninos
 <2019-11-29 Fri>
 
@@ -129,7 +129,7 @@ Type Control \ for Hebrew keyboard
 
 Type Shift-Control \ again for English keyboard
 
-See the file in this folder BiblicalHebrewSILManual.pdf for details about the Hebrew keyboard.
+See [[https://github.com/revrari/greek-hebrew-emacs/blob/master/BiblicalHebrewSILManual.pdf][this file]] for details about the Hebrew keyboard.
 
 * More options
 
