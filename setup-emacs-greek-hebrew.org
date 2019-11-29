@@ -123,12 +123,19 @@ https://emacs.stackexchange.com/questions/53755/increase-the-font-size-for-hebre
 Type Shift-Control \ for Greek keyboard
 
 Type < or > for breathings e.g. ἀδελφος
+
 ~ for circumflex ὑμῖν
+
 ' or ` for accents δὲ
+
 c for final sigma ὑμας
+
 " for diaresis
+
 | for iota subscript μόχθῳ
+
 ; for semi-colon
+
 ? for question mark
 
 Type Shift-Control \ again for English keyboard
