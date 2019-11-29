@@ -1,4 +1,4 @@
-#+TITLE: How to set up Emacs to best type Ancient Greek and Hebrew -- for dummies
+#+TITLE: How to set up Emacs to best type Greek and Hebrew -- for dummies
 #+AUTHOR: Raoul Comninos
 <2019-11-29 Fri>
 
@@ -132,7 +132,7 @@ c for final sigma ὑμας
 
 " for diaresis
 
-| for iota subscript μόχθῳ
+Vertical bar | for iota subscript μόχθῳ
 
 ; for semi-colon
 
