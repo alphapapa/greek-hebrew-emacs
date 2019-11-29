@@ -147,4 +147,7 @@ See the post below:
 
 https://emacs.stackexchange.com/questions/52936/searching-greek-and-hebrew-texts-in-emacs-with-isearch-while-ignoring-accents-an/52937#52937
 
-[[revcomninos@gmail.com][Contact me]]
+* Contact me
+
+Dr Raoul Comninos
+revcomninos@gmail.com
