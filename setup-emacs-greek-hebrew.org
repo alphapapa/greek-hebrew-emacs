@@ -150,4 +150,4 @@ https://emacs.stackexchange.com/questions/52936/searching-greek-and-hebrew-texts
 * Contact me
 
 Dr Raoul Comninos
-revcomninos@gmail.com
+[[revcomninos@gmail.com]]
