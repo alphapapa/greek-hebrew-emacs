@@ -106,6 +106,8 @@ Example:*שְׁמַע ישְׂרָאֶל*
 
 (Note you may see no difference in size reading the above, but the difference is apparent in Emacs.)
 
+(Note that this will not make a change to the actual size of the fonts in the actual document, or when exported.)
+
 You can adjust the size to suit your needs.
 
 https://emacs.stackexchange.com/questions/53755/increase-the-font-size-for-hebrew-text-in-emacs-but-leave-english-font-size-as-i/53757#53757
