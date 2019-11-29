@@ -102,7 +102,9 @@ This code especially helpful for typing Hebrew:
 #+END_SRC
 
 Example: ἀδελφός
-Example: שְׁמַע ישְׂרָאֶל
+Example:*שְׁמַע ישְׂרָאֶל*
+
+(Note you may see no difference in size reading the above, but the difference is apparent in Emacs.)
 
 You can adjust the size to suit your needs.
 
