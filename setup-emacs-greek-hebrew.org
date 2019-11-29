@@ -134,8 +134,11 @@ See the file in this folder BiblicalHebrewSILManual.pdf for details about the He
 * More options
 
 M-x list-input-methods
+
 M-x describe-input-method
+
 M-x toggle-input-method
+
 M-x set-input-method
 
 * To search for Greek and Hebrew characters in Emacs while ignoring diacritics
